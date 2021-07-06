@@ -119,16 +119,20 @@ a {
 .footer-logo {
   float: left;
   text-align:center;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .footer-list {
   float: right;
+   font-family:"Courier";
 }
 
-.footer-list li {
+.footer-list l {
+  float: left;
   text-align:center;
-   float: left;
-  padding: 4px 12px;
+  font-size: 25px;
+  padding: 1px 1px;
   font-family:"Courier";
+  margin:5px;
+  font-size: 25px;
 }
